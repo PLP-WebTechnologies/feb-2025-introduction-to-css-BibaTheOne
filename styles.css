@@ -1,0 +1,62 @@
+/* General body styling */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f9; /* Light background */
+    margin: 0;
+    padding: 0;
+    color: #333; /* Dark text color for readability */
+}
+
+/* Styling the header */
+header {
+    background-color: #007bff; /* Blue background */
+    padding: 20px;
+    text-align: center;
+}
+
+.main-heading {
+    color: white;
+    font-size: 2.5em;
+    margin: 0;
+}
+
+/* Styling for the paragraph with an ID */
+#intro-paragraph {
+    font-size: 1.2em;
+    color: #f1f1f1;
+    margin-top: 10px;
+}
+
+/* Content section */
+.content {
+    padding: 20px;
+    text-align: center;
+}
+
+.content h2 {
+    color: #007bff;
+    font-size: 2em;
+}
+
+/* Image styling with a class */
+.styled-image {
+    max-width: 100%;
+    height: auto;
+    border: 5px solid #007bff; /* Blue border around the image */
+    margin: 20px 0;
+    border-radius: 8px; /* Rounded corners */
+}
+
+/* Footer styling */
+footer {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+/* Margin and padding for better spacing */
+footer p {
+    margin: 0;
+    padding: 10px;
+}
